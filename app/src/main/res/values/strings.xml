@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Reporter</string>
+
+    <string-array name="locations">
+        <item name="locations">::locations::</item>
+        <item name="zik_hall">Nnamdi Azikiwe Hall</item>
+        <item name="indy_hall">Independence Hall</item>
+        <item name="mellanby_hall">Mellanby Hall</item>
+        <item name="idia_hall">Queen Idia Hall</item>
+    </string-array>
+
+    <string-array name="category">
+        <item name="categories">::categories::</item>
+        <item name="fire">Fire Outbreak</item>
+        <item name="electric">Electric Shock</item>
+        <item name="domestic">Domestic Injury</item>
+        <item name="brake">Brake Failure</item>
+        <item name="robbery">Robbery</item>
+    </string-array>
+
+</resources>
